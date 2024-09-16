@@ -15,3 +15,4 @@ The users of the Automatic Labeled LiDAR Data must abide by the following Terms 
 <p align="right"> Artificial Intelligence Research Center, Japan </p>
 <p align="right"> 2) Tokyo Institute of Technology </p>
 <p align="right"> Okutomi-Tanaka Laboratory, Japan </p>
+
